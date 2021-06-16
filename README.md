@@ -1,4 +1,4 @@
 # Autotrader
  
-Developed by Ashref Sayadi
+Developed by Ashref Sayadi <br>
 Language: C and MQL5
